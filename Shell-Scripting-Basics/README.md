@@ -1,4 +1,4 @@
-#Basics of Shell Scripting
+## Basics of Shell Scripting
 
 This folder contains a PDF document covering the fundamentals of Shell Scripting.
 It is intended for beginners who want to understand how shell scripts work and how they differ from general programming.
