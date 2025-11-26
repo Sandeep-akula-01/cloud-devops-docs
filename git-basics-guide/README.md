@@ -11,8 +11,7 @@ It is meant to serve as a quick reference for beginners and intermediate users.
   - Basic workflow tips for version control
 
 ## 📘 Topics Covered in the PDF
-- Setting up Git  
-- Initializing repositories  
+ - Initializing repositories  
 - Tracking changes  
 - Staging & committing  
 - Branching & merging  
