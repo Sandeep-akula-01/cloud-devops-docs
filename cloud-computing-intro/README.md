@@ -19,5 +19,3 @@ The document explains how cloud computing enables on-demand access to computing 
 Simply open the PDF file to read through the introductory material and gain a foundational understanding of cloud computing and current industry leaders.
 
 ---
-
-Feel free to update or expand this README as needed!
