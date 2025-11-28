@@ -34,9 +34,6 @@ The PDF covers the following major concepts:
 - Summary of how VPC, subnets, gateways, routing, and scaling work together  
 - Importance of building secure and highly available AWS architectures  
 
-## 📂 Included File
-- `Understanding_AWS_VPC.pdf`
-
 ## 💡 Purpose
 This document serves as a beginner-friendly guide to help learners and cloud engineers understand the essential AWS networking components needed to architect secure, scalable cloud environments.
 
