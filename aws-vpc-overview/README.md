@@ -38,5 +38,3 @@ The PDF covers the following major concepts:
 This document serves as a beginner-friendly guide to help learners and cloud engineers understand the essential AWS networking components needed to architect secure, scalable cloud environments.
 
 ---
-
-Feel free to update the README once you add the PDF to this folder.
