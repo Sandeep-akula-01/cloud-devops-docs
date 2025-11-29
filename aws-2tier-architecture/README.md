@@ -17,5 +17,3 @@ The document provides a clear overview of how to design a secure, scalable, and 
 - `AWS_2Tier_Architecture.pdf` – Full architecture guide
 
 ---
-
-Feel free to explore or reuse this setup for learning or projects!
